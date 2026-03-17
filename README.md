@@ -15,7 +15,7 @@ Built using Computer Vision, the system tracks hand movements in real time and e
 - OpenCV
 - MediaPipe
 - NumPy
-  br>
+  <br>
 ## ▶️ How to Run
 
 ```bash
