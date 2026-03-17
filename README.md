@@ -13,11 +13,11 @@ Built using Computer Vision, the system tracks hand movements in real time and e
 🛠️ Tech Stack
 <b>
 - Python
-- <br>
+ <br>
 - OpenCV
-- <br>
+ <br>
 - MediaPipe
-- <br>
+  <br>
 - NumPy
   <br>
 ▶️ How to Run
