@@ -1,3 +1,23 @@
-# AI-Canvas
+# 🎨 AI-Canvas
+
 An AI-powered virtual canvas that allows users to draw on screen using hand gestures.
-<br>Built with OpenCV and MediaPipe, the system detects hand landmarks in real time and maps finger movements to drawing actions, eliminating the need for physical input devices.
+
+Built using Computer Vision, the system tracks hand movements in real time and enables drawing without any physical input device.
+<br>
+## 🚀 Features
+- ✋ Hand gesture-based drawing
+- 🎯 Real-time hand tracking using MediaPipe
+- 🖌️ Smooth and interactive drawing experience
+- ❌ No mouse or keyboard required
+<br>
+## 🛠️ Tech Stack
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+  br>
+## ▶️ How to Run
+
+```bash
+pip install opencv-python mediapipe numpy
+python AirCanvas.py
