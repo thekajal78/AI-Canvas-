@@ -11,7 +11,7 @@ Built using Computer Vision, the system tracks hand movements in real time and e
 - ❌ No mouse or keyboard required
 <br>
 🛠️ Tech Stack
-<b>
+<br>
 - Python
  <br>
 - OpenCV
